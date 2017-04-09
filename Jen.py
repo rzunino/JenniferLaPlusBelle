@@ -10,3 +10,5 @@ class Jennifer:
     def parler(self):
         return 'bla bla blabla bla'
 
+    def chouiner(self):
+        return 'ouinnnnnnn'
