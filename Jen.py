@@ -10,3 +10,6 @@ class Jennifer:
     def parler(self):
         return 'bla bla blabla bla'
 
+    def embeter(self):
+        return 'J adore embeter Romain'
+    
