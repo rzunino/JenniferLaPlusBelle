@@ -12,4 +12,7 @@ class Jennifer:
 
     def embeter(self):
         return 'J adore embeter Romain'
-    
+
+    def chouiner(self):
+        return 'ouinnnnnnn'
+
