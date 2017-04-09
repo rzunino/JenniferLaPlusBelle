@@ -3,6 +3,7 @@ class Jennifer:
         self.taile=166
         self.poids=42
         self.job='banker'
+        self.color='yellow'
 
     def marcher(self):
         return 'je marche lentement'
