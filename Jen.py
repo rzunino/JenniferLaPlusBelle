@@ -6,4 +6,7 @@ class Jennifer:
 
     def marcher(self):
         return 'je marche lentement'
-    
+
+    def parler(self):
+        return 'bla bla blabla bla'
+
